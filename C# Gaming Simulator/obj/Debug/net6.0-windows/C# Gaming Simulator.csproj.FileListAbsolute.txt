@@ -1,0 +1,73 @@
+C:\Users\tiago\OneDrive\Documentos\Análise e Desenvolvimento de Sistemas\Linguagem de Programação\Aulas\C# Gaming Simulator\C# Gaming Simulator\bin\Debug\net6.0-windows\C# Gaming Simulator.exe
+C:\Users\tiago\OneDrive\Documentos\Análise e Desenvolvimento de Sistemas\Linguagem de Programação\Aulas\C# Gaming Simulator\C# Gaming Simulator\bin\Debug\net6.0-windows\C# Gaming Simulator.deps.json
+C:\Users\tiago\OneDrive\Documentos\Análise e Desenvolvimento de Sistemas\Linguagem de Programação\Aulas\C# Gaming Simulator\C# Gaming Simulator\bin\Debug\net6.0-windows\C# Gaming Simulator.runtimeconfig.json
+C:\Users\tiago\OneDrive\Documentos\Análise e Desenvolvimento de Sistemas\Linguagem de Programação\Aulas\C# Gaming Simulator\C# Gaming Simulator\bin\Debug\net6.0-windows\C# Gaming Simulator.dll
+C:\Users\tiago\OneDrive\Documentos\Análise e Desenvolvimento de Sistemas\Linguagem de Programação\Aulas\C# Gaming Simulator\C# Gaming Simulator\bin\Debug\net6.0-windows\C# Gaming Simulator.pdb
+C:\Users\tiago\OneDrive\Documentos\Análise e Desenvolvimento de Sistemas\Linguagem de Programação\Aulas\C# Gaming Simulator\C# Gaming Simulator\obj\Debug\net6.0-windows\C# Gaming Simulator.csproj.AssemblyReference.cache
+C:\Users\tiago\OneDrive\Documentos\Análise e Desenvolvimento de Sistemas\Linguagem de Programação\Aulas\C# Gaming Simulator\C# Gaming Simulator\obj\Debug\net6.0-windows\C__Gaming_Simulator.Form1.resources
+C:\Users\tiago\OneDrive\Documentos\Análise e Desenvolvimento de Sistemas\Linguagem de Programação\Aulas\C# Gaming Simulator\C# Gaming Simulator\obj\Debug\net6.0-windows\C__Gaming_Simulator.Properties.Resources.resources
+C:\Users\tiago\OneDrive\Documentos\Análise e Desenvolvimento de Sistemas\Linguagem de Programação\Aulas\C# Gaming Simulator\C# Gaming Simulator\obj\Debug\net6.0-windows\C# Gaming Simulator.csproj.GenerateResource.cache
+C:\Users\tiago\OneDrive\Documentos\Análise e Desenvolvimento de Sistemas\Linguagem de Programação\Aulas\C# Gaming Simulator\C# Gaming Simulator\obj\Debug\net6.0-windows\C# Gaming Simulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiago\OneDrive\Documentos\Análise e Desenvolvimento de Sistemas\Linguagem de Programação\Aulas\C# Gaming Simulator\C# Gaming Simulator\obj\Debug\net6.0-windows\C# Gaming Simulator.AssemblyInfoInputs.cache
+C:\Users\tiago\OneDrive\Documentos\Análise e Desenvolvimento de Sistemas\Linguagem de Programação\Aulas\C# Gaming Simulator\C# Gaming Simulator\obj\Debug\net6.0-windows\C# Gaming Simulator.AssemblyInfo.cs
+C:\Users\tiago\OneDrive\Documentos\Análise e Desenvolvimento de Sistemas\Linguagem de Programação\Aulas\C# Gaming Simulator\C# Gaming Simulator\obj\Debug\net6.0-windows\C# Gaming Simulator.csproj.CoreCompileInputs.cache
+C:\Users\tiago\OneDrive\Documentos\Análise e Desenvolvimento de Sistemas\Linguagem de Programação\Aulas\C# Gaming Simulator\C# Gaming Simulator\obj\Debug\net6.0-windows\C# Gaming Simulator.dll
+C:\Users\tiago\OneDrive\Documentos\Análise e Desenvolvimento de Sistemas\Linguagem de Programação\Aulas\C# Gaming Simulator\C# Gaming Simulator\obj\Debug\net6.0-windows\refint\C# Gaming Simulator.dll
+C:\Users\tiago\OneDrive\Documentos\Análise e Desenvolvimento de Sistemas\Linguagem de Programação\Aulas\C# Gaming Simulator\C# Gaming Simulator\obj\Debug\net6.0-windows\C# Gaming Simulator.pdb
+C:\Users\tiago\OneDrive\Documentos\Análise e Desenvolvimento de Sistemas\Linguagem de Programação\Aulas\C# Gaming Simulator\C# Gaming Simulator\obj\Debug\net6.0-windows\C# Gaming Simulator.genruntimeconfig.cache
+C:\Users\tiago\OneDrive\Documentos\Análise e Desenvolvimento de Sistemas\Linguagem de Programação\Aulas\C# Gaming Simulator\C# Gaming Simulator\obj\Debug\net6.0-windows\ref\C# Gaming Simulator.dll
+C:\dev\C# Gaming Simulator\C# Gaming Simulator\bin\Debug\net6.0-windows\C# Gaming Simulator.exe
+C:\dev\C# Gaming Simulator\C# Gaming Simulator\bin\Debug\net6.0-windows\C# Gaming Simulator.deps.json
+C:\dev\C# Gaming Simulator\C# Gaming Simulator\bin\Debug\net6.0-windows\C# Gaming Simulator.runtimeconfig.json
+C:\dev\C# Gaming Simulator\C# Gaming Simulator\bin\Debug\net6.0-windows\C# Gaming Simulator.dll
+C:\dev\C# Gaming Simulator\C# Gaming Simulator\bin\Debug\net6.0-windows\C# Gaming Simulator.pdb
+C:\dev\C# Gaming Simulator\C# Gaming Simulator\obj\Debug\net6.0-windows\C__Gaming_Simulator.Form1.resources
+C:\dev\C# Gaming Simulator\C# Gaming Simulator\obj\Debug\net6.0-windows\C__Gaming_Simulator.Properties.Resources.resources
+C:\dev\C# Gaming Simulator\C# Gaming Simulator\obj\Debug\net6.0-windows\C# Gaming Simulator.csproj.GenerateResource.cache
+C:\dev\C# Gaming Simulator\C# Gaming Simulator\obj\Debug\net6.0-windows\C# Gaming Simulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\C# Gaming Simulator\C# Gaming Simulator\obj\Debug\net6.0-windows\C# Gaming Simulator.AssemblyInfoInputs.cache
+C:\dev\C# Gaming Simulator\C# Gaming Simulator\obj\Debug\net6.0-windows\C# Gaming Simulator.AssemblyInfo.cs
+C:\dev\C# Gaming Simulator\C# Gaming Simulator\obj\Debug\net6.0-windows\C# Gaming Simulator.csproj.CoreCompileInputs.cache
+C:\dev\C# Gaming Simulator\C# Gaming Simulator\obj\Debug\net6.0-windows\C# Gaming Simulator.dll
+C:\dev\C# Gaming Simulator\C# Gaming Simulator\obj\Debug\net6.0-windows\refint\C# Gaming Simulator.dll
+C:\dev\C# Gaming Simulator\C# Gaming Simulator\obj\Debug\net6.0-windows\C# Gaming Simulator.pdb
+C:\dev\C# Gaming Simulator\C# Gaming Simulator\obj\Debug\net6.0-windows\C# Gaming Simulator.genruntimeconfig.cache
+C:\dev\C# Gaming Simulator\C# Gaming Simulator\obj\Debug\net6.0-windows\ref\C# Gaming Simulator.dll
+C:\dev\C# Gaming Simulator\C# Gaming Simulator\obj\Debug\net6.0-windows\C__Gaming_Simulator.Carregamento.resources
+C:\Users\Marjory\Desktop\FATEC\3 semestre\Fatec Aberta\C# Gaming Simulator\C# Gaming Simulator\bin\Debug\net6.0-windows\C# Gaming Simulator.exe
+C:\Users\Marjory\Desktop\FATEC\3 semestre\Fatec Aberta\C# Gaming Simulator\C# Gaming Simulator\bin\Debug\net6.0-windows\C# Gaming Simulator.deps.json
+C:\Users\Marjory\Desktop\FATEC\3 semestre\Fatec Aberta\C# Gaming Simulator\C# Gaming Simulator\bin\Debug\net6.0-windows\C# Gaming Simulator.runtimeconfig.json
+C:\Users\Marjory\Desktop\FATEC\3 semestre\Fatec Aberta\C# Gaming Simulator\C# Gaming Simulator\bin\Debug\net6.0-windows\C# Gaming Simulator.dll
+C:\Users\Marjory\Desktop\FATEC\3 semestre\Fatec Aberta\C# Gaming Simulator\C# Gaming Simulator\bin\Debug\net6.0-windows\C# Gaming Simulator.pdb
+C:\Users\Marjory\Desktop\FATEC\3 semestre\Fatec Aberta\C# Gaming Simulator\C# Gaming Simulator\obj\Debug\net6.0-windows\C# Gaming Simulator.csproj.AssemblyReference.cache
+C:\Users\Marjory\Desktop\FATEC\3 semestre\Fatec Aberta\C# Gaming Simulator\C# Gaming Simulator\obj\Debug\net6.0-windows\C__Gaming_Simulator.Carregamento.resources
+C:\Users\Marjory\Desktop\FATEC\3 semestre\Fatec Aberta\C# Gaming Simulator\C# Gaming Simulator\obj\Debug\net6.0-windows\C__Gaming_Simulator.Form1.resources
+C:\Users\Marjory\Desktop\FATEC\3 semestre\Fatec Aberta\C# Gaming Simulator\C# Gaming Simulator\obj\Debug\net6.0-windows\C__Gaming_Simulator.Properties.Resources.resources
+C:\Users\Marjory\Desktop\FATEC\3 semestre\Fatec Aberta\C# Gaming Simulator\C# Gaming Simulator\obj\Debug\net6.0-windows\C# Gaming Simulator.csproj.GenerateResource.cache
+C:\Users\Marjory\Desktop\FATEC\3 semestre\Fatec Aberta\C# Gaming Simulator\C# Gaming Simulator\obj\Debug\net6.0-windows\C# Gaming Simulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marjory\Desktop\FATEC\3 semestre\Fatec Aberta\C# Gaming Simulator\C# Gaming Simulator\obj\Debug\net6.0-windows\C# Gaming Simulator.AssemblyInfoInputs.cache
+C:\Users\Marjory\Desktop\FATEC\3 semestre\Fatec Aberta\C# Gaming Simulator\C# Gaming Simulator\obj\Debug\net6.0-windows\C# Gaming Simulator.AssemblyInfo.cs
+C:\Users\Marjory\Desktop\FATEC\3 semestre\Fatec Aberta\C# Gaming Simulator\C# Gaming Simulator\obj\Debug\net6.0-windows\C# Gaming Simulator.csproj.CoreCompileInputs.cache
+C:\Users\Marjory\Desktop\FATEC\3 semestre\Fatec Aberta\C# Gaming Simulator\C# Gaming Simulator\obj\Debug\net6.0-windows\C# Gaming Simulator.dll
+C:\Users\Marjory\Desktop\FATEC\3 semestre\Fatec Aberta\C# Gaming Simulator\C# Gaming Simulator\obj\Debug\net6.0-windows\refint\C# Gaming Simulator.dll
+C:\Users\Marjory\Desktop\FATEC\3 semestre\Fatec Aberta\C# Gaming Simulator\C# Gaming Simulator\obj\Debug\net6.0-windows\C# Gaming Simulator.pdb
+C:\Users\Marjory\Desktop\FATEC\3 semestre\Fatec Aberta\C# Gaming Simulator\C# Gaming Simulator\obj\Debug\net6.0-windows\C# Gaming Simulator.genruntimeconfig.cache
+C:\Users\Marjory\Desktop\FATEC\3 semestre\Fatec Aberta\C# Gaming Simulator\C# Gaming Simulator\obj\Debug\net6.0-windows\ref\C# Gaming Simulator.dll
+C:\Users\danil\Downloads\Fatec Aberta\C# Gaming Simulator\C# Gaming Simulator\obj\Debug\net6.0-windows\C# Gaming Simulator.dll
+C:\Users\danil\Downloads\Fatec Aberta\C# Gaming Simulator\C# Gaming Simulator\obj\Debug\net6.0-windows\refint\C# Gaming Simulator.dll
+C:\Users\danil\Downloads\Fatec Aberta\C# Gaming Simulator\C# Gaming Simulator\obj\Debug\net6.0-windows\C# Gaming Simulator.pdb
+C:\Users\danil\Downloads\Fatec Aberta\C# Gaming Simulator\C# Gaming Simulator\bin\Debug\net6.0-windows\C# Gaming Simulator.exe
+C:\Users\danil\Downloads\Fatec Aberta\C# Gaming Simulator\C# Gaming Simulator\bin\Debug\net6.0-windows\C# Gaming Simulator.deps.json
+C:\Users\danil\Downloads\Fatec Aberta\C# Gaming Simulator\C# Gaming Simulator\bin\Debug\net6.0-windows\C# Gaming Simulator.runtimeconfig.json
+C:\Users\danil\Downloads\Fatec Aberta\C# Gaming Simulator\C# Gaming Simulator\bin\Debug\net6.0-windows\C# Gaming Simulator.dll
+C:\Users\danil\Downloads\Fatec Aberta\C# Gaming Simulator\C# Gaming Simulator\bin\Debug\net6.0-windows\C# Gaming Simulator.pdb
+C:\Users\danil\Downloads\Fatec Aberta\C# Gaming Simulator\C# Gaming Simulator\obj\Debug\net6.0-windows\C__Gaming_Simulator.Carregamento.resources
+C:\Users\danil\Downloads\Fatec Aberta\C# Gaming Simulator\C# Gaming Simulator\obj\Debug\net6.0-windows\C__Gaming_Simulator.Form1.resources
+C:\Users\danil\Downloads\Fatec Aberta\C# Gaming Simulator\C# Gaming Simulator\obj\Debug\net6.0-windows\C__Gaming_Simulator.Properties.Resources.resources
+C:\Users\danil\Downloads\Fatec Aberta\C# Gaming Simulator\C# Gaming Simulator\obj\Debug\net6.0-windows\C# Gaming Simulator.csproj.GenerateResource.cache
+C:\Users\danil\Downloads\Fatec Aberta\C# Gaming Simulator\C# Gaming Simulator\obj\Debug\net6.0-windows\C# Gaming Simulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danil\Downloads\Fatec Aberta\C# Gaming Simulator\C# Gaming Simulator\obj\Debug\net6.0-windows\C# Gaming Simulator.AssemblyInfoInputs.cache
+C:\Users\danil\Downloads\Fatec Aberta\C# Gaming Simulator\C# Gaming Simulator\obj\Debug\net6.0-windows\C# Gaming Simulator.AssemblyInfo.cs
+C:\Users\danil\Downloads\Fatec Aberta\C# Gaming Simulator\C# Gaming Simulator\obj\Debug\net6.0-windows\C# Gaming Simulator.csproj.CoreCompileInputs.cache
+C:\Users\danil\Downloads\Fatec Aberta\C# Gaming Simulator\C# Gaming Simulator\obj\Debug\net6.0-windows\C# Gaming Simulator.genruntimeconfig.cache
+C:\Users\danil\Downloads\Fatec Aberta\C# Gaming Simulator\C# Gaming Simulator\obj\Debug\net6.0-windows\ref\C# Gaming Simulator.dll

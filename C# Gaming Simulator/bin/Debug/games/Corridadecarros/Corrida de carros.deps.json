@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Corrida de carros/1.0.0": {
+        "runtime": {
+          "Corrida de carros.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Corrida de carros/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
